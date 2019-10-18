@@ -14,8 +14,8 @@ int toh(int n,int s,int d,int h)
 
 int main(int argc,char** argv)
 {
-    int shells=3;
-    int res= toh(3,1,2,3);
+    int disc=3;
+    int res= toh(3,1,2,3);//function call
     cout<<res;
 
 }
